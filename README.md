@@ -23,7 +23,7 @@ Hello everybody!! this is the general repository of Data Science without mystery
 ## Responsible
 
 - [Jorge Ignacio Lara Ceballos](https://www.linkedin.com/in/jorge-ignacio-lara-ceballos/)
-- Enrique Nieva](https://www.linkedin.com/in/enrique-nieva-89b7ba260/)
+- [Enrique Nieva](https://www.linkedin.com/in/enrique-nieva-89b7ba260/)
 
 
 ## 🛠 Topics to cover
@@ -38,8 +38,8 @@ Bonjour à tous ! voici le dépôt général de Data Science sans mystère ! où
 
 ## Responsable
 
-- Jorge Ignacio Lara Ceballos](https://www.linkedin.com/in/jorge-ignacio-lara-ceballos/)
-- Enrique Nieva](https://www.linkedin.com/in/enrique-nieva-89b7ba260/)
+- [Jorge Ignacio Lara Ceballos](https://www.linkedin.com/in/jorge-ignacio-lara-ceballos/)
+- [Enrique Nieva](https://www.linkedin.com/in/enrique-nieva-89b7ba260/)
 
 
 ## 🛠 Sujets abordés
